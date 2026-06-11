@@ -48,14 +48,14 @@ A high-performance animated landing page that recreates Apple's iPhone 15 websit
 ### 📋 Job Application Tracker
 A full-stack CRUD app to track job applications with live dashboard stats and inline status management. Built and deployed independently from scratch.  
 **Tech:** React, Node.js, Express.js, MongoDB, Tailwind CSS  
-🔗 [Live Demo](https://your-job-tracker-link.vercel.app) · [GitHub](https://github.com/jafarlihammed/job-tracker)
+🔗 [Live Demo](https://job-tracker-three-steel.vercel.app/) · [GitHub](https://github.com/Jafarscript/job-tracker)
 
 ---
 
 ### 🗒️ Notes App with Authentication
 A full-stack notes app with JWT authentication and per-user data scoping. Each user sees only their own notes. Covers the full auth flow — register, login, bcrypt password hashing, and protected routes.  
 **Tech:** React, Node.js, Express.js, MongoDB, JWT, Tailwind CSS  
-🔗 [Live Demo](https://your-notes-app-link.vercel.app) · [GitHub](https://github.com/jafarlihammed/notes-app)
+🔗 [Live Demo](https://note-app-three-rose.vercel.app/) · [GitHub](https://github.com/Jafarscript/Note-app)
 
 ---
 
