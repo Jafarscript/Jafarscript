@@ -2,7 +2,7 @@
 
 Based in Lagos, Nigeria. I build production web applications — from government platforms to AI-powered tools — using React, Next.js, Node.js, and MongoDB. I write real code, ship real products, and teach the next generation of developers in my community.
 
-📧 lihammedjafar@gmail.com · [Portfolio](https://jafarscript.netlify.app) · [LinkedIn](https://linkedin.com/in/jafar-li-hammed-8817a91b4) · [GitHub](https://github.com/jafarlihammed)
+📧 lihammedjafar@gmail.com · [Portfolio](https://www.jafarscript.xyz) · [LinkedIn](https://linkedin.com/in/jafar-li-hammed-8817a91b4) · [GitHub](https://github.com/jafarlihammed)
 
 ---
 
